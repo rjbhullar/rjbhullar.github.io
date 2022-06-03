@@ -1,0 +1,27 @@
+{
+    "short_name": "My First PWA",
+    "name": "My First Progressive Web App",
+    "icons": [
+        {
+            "src": "icon.png",
+            "type": "image/png",
+            "sizes": "512x512",
+            "purpose": "any"
+        },
+        {
+            "src": "icon2.png",
+            "type": "image/png",
+            "sizes": "192x192",
+            "purpose": "maskable"
+        }
+    ],
+    "start_url": "/",
+    "display": "standalone",
+    "background_color":"black",
+    "theme_color": "white",
+    "orientation": "any"
+}
+
+
+
+
